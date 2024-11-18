@@ -1,0 +1,6 @@
+order_id,customer_id,product_name,product_category,order_date,quantity,price,revenue,cost,profit_margin,customer_country,customer_city,shipping_method
+SO001,C001,Laptop,Electronics,2023-01-15,1,1200.00,1200.00,900.00,0.25,USA,New York,Standard
+SO002,C002,Smartphone,Electronics,2023-01-16,2,800.00,1600.00,1200.00,0.25,Canada,Toronto,Express
+SO003,C003,Headphones,Electronics,2023-01-17,1,150.00,150.00,100.00,0.33,UK,London,Standard
+SO004,C004,Running Shoes,Sports,2023-01-18,1,120.00,120.00,80.00,0.33,Australia,Sydney,Express
+SO005,C005,Fitness Tracker,Electronics,2023-01-19,1,100.00,100.00,70.00,0.30,Germany,Berlin,Standard
