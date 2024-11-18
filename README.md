@@ -154,9 +154,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - youremail@example.com
-
-Project Link: [https://github.com/yourusername/sales-analytics-dashboard](https://github.com/yourusername/sales-analytics-dashboard)
+Your Name - Pranav970
 
 ## 🙏 Acknowledgements
 
